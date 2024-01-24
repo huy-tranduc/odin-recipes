@@ -24,3 +24,8 @@ img {
     width: 350px;
     height: auto;
 }
+
+/* Hide unneed element when display on Github Pages */
+div#forest-ext-shadow-host {
+    display: none;
+}
